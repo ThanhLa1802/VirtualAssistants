@@ -1,5 +1,5 @@
 # VirtualAssistants
-  This project build virtual assistants!
+  This project build virtual assistants! It has basic function example: talk, find on the internet, open youtube, open applications...
 
 # Setup envairoment
   Using Jupyter Notebook on Anaconda: https://youtu.be/EIMrfcosoRE
